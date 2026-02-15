@@ -37,5 +37,5 @@ graph LR
     C -->|Connection| D[Power BI Dashboard]
     
     style C fill:#336791,stroke:#fff,color:#fff
-    style D fill:#F2C811,stroke:#333
+    style D fill:#DBAF00,stroke:#333
 ```
