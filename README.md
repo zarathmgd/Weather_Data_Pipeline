@@ -4,7 +4,7 @@ This project is a complete Data Engineering pipeline designed to automate weathe
 
 It fetches historical weather data from major European cities, stores it in a Data Warehouse, and provides visual analytics to optimize clothing inventory based on climate trends.
 
-![Dashboard Preview](img/dashboard.png)
+![Dashboard Preview](img/PowerBI_Dashboard.png)
 
 ## 🛠️ Technical Stack
 
